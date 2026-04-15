@@ -1,0 +1,5 @@
+flask
+flask-talisman
+nose
+coverage
+flake8
